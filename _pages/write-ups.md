@@ -12,28 +12,29 @@ Here are some of my personal write-ups and documentation on practical cybersecur
 ---
 
 ### 🕵️‍♀️ Network Scanning with Nmap
-📄 [Download PDF](../assets/writeups/nmap-scan.pdf)
+📄 [View Write-up](../assets/writeups/Diana_Wanjiru_CS-EH02-24103_NT)
+📄 [View Write-up](../assets/writeups/Diana_Wanjiru_CS-EH02-24103_Gs)
 
 A detailed report on using **Nmap** for host discovery, port scanning, and service enumeration during penetration testing.
 
 ---
 
 ### 🧩 Enumeration and Reconnaissance
-📄 [View Write-up](../assets/writeups/enumeration-recon.pdf)
+📄 [View Write-up](../assets/writeups/Diana_Wanjiru_CS-EH02-24103_Gs)
+📄 [View Write-up](../assets/writeups/Diana_Wanjiru_CS-EH02-24103_Pr) 
 
 Covers **OSINT, DNS, SMB, and SNMP enumeration** techniques using Linux tools and TryHackMe challenges.
 
 ---
 
-### ☁️ Cloud Computing Setups
-📄 [Download PDF](../assets/writeups/cloud-setup.pdf)
+### ☁️ Python Programming
+📄 [View Write-up](../assets/writeups/Diana_Wanjiru_CS-EH02-24103_py)
 
-Explains setting up **IAM users, EC2 instances, and S3 buckets** securely within AWS.
-
+Shows my python programming language learning process. 
 ---
 
 ### 💻 Linux Network Troubleshooting
-📄 [Download PDF](../assets/writeups/linux-network.pdf)
+📄  [View Write-up](../assets/writeups/Diana_Wanjiru_CS-EH02-24103)
 
 Walkthrough on resolving network connectivity issues using **ping, traceroute, netstat, and tcpdump**.
 
