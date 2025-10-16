@@ -12,7 +12,8 @@ Here are some of my personal write-ups and documentation on practical cybersecur
 ---
 
 ### 🕵️‍♀️ Network Scanning with Nmap
-📄 [View Write-up](../assets/writeups/Diana_Wanjiru_CS-EH02-24103_NT)
+📄 [View Write-up](../assets/writeups/Diana_Wanjiru_CS-EH02-24103_NT)  
+
 📄 [View Write-up](../assets/writeups/Diana_Wanjiru_CS-EH02-24103_GettingStarted)
 
 A detailed report on using **Nmap** for host discovery, port scanning, and service enumeration during penetration testing.
@@ -20,7 +21,8 @@ A detailed report on using **Nmap** for host discovery, port scanning, and servi
 ---
 
 ### 🧩 Enumeration and Reconnaissance
-📄 [View Write-up](../assets/writeups/Diana_Wanjiru_CS-EH02-24103_GettingStarted)
+📄 [View Write-up](../assets/writeups/Diana_Wanjiru_CS-EH02-24103_GettingStarted)  
+
 📄 [View Write-up](../assets/writeups/Diana_Wanjiru_CS-EH02-24103_Pr) 
 
 Covers **OSINT, DNS, SMB, and SNMP enumeration** techniques using Linux tools and TryHackMe challenges.
