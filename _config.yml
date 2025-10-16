@@ -13,11 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: DIANA WANJIRU | PORTFOLIO
+title: "DIANA WANJIRU | PORTFOLIO"
 email: dee18wanjiru@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
    I'm Diana Wanjiru, a cybersecurity student and aspiring SOC Analyst passionate about cloud security, Linux, and digital defense.
 baseurl: "" # Leave blank for user.github.io sites 
+url: "https://wanjirudiana.github.io"
 
 github_username: wanjirudiana
 minimal_mistakes_skin: dark
