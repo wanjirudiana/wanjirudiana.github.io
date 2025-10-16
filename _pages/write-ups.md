@@ -12,31 +12,31 @@ Here are some of my personal write-ups and documentation on practical cybersecur
 ---
 
 ### 🕵️‍♀️ Network Scanning with Nmap
-📄 [View Write-up](../assets/writeups/Diana_Wanjiru_CS-EH02-24103_NT)  
+📄 [View Write-up](/assets/writeups/Diana_Wanjiru_CS-EH02-24103_NT.pdf)  
 
-📄 [View Write-up](../assets/writeups/Diana_Wanjiru_CS-EH02-24103_GettingStarted)
+📄 [View Write-up](/assets/writeups/Diana_Wanjiru_CS-EH02-24103_GettingStarted.pdf)
 
 A detailed report on using **Nmap** for host discovery, port scanning, and service enumeration during penetration testing.
 
 ---
 
 ### 🧩 Enumeration and Reconnaissance
-📄 [View Write-up](../assets/writeups/Diana_Wanjiru_CS-EH02-24103_GettingStarted)  
+📄 [View Write-up](/assets/writeups/Diana_Wanjiru_CS-EH02-24103_GettingStarted.pdf)  
 
-📄 [View Write-up](../assets/writeups/Diana_Wanjiru_CS-EH02-24103_Pr) 
+📄 [View Write-up](/assets/writeups/Diana_Wanjiru_CS-EH02-24103_Pr.pdf) 
 
 Covers **OSINT, DNS, SMB, and SNMP enumeration** techniques using Linux tools and TryHackMe challenges.
 
 ---
 
 ### ☁️ Python Programming
-📄 [View Write-up](../assets/writeups/Diana_Wanjiru_CS-EH02-24103_py)
+📄 [View Write-up](/assets/writeups/Diana_Wanjiru_CS-EH02-24103_py.pdf)
 
 Shows my python programming language learning process. 
 ---
 
 ### 💻 Linux Network Troubleshooting
-📄  [View Write-up](../assets/writeups/Diana_Wanjiru_CS-EH02-24103)
+📄  [View Write-up](/assets/writeups/Diana_Wanjiru_CS-EH02-24103.pdf)
 
 Walkthrough on resolving network connectivity issues using **ping, traceroute, netstat, and tcpdump**.
 
